@@ -5,9 +5,6 @@
 **Full Name**
 Anna Ly
 
-## Description
-The app is built for 94692 Data Science Practice, Assignment 1 Python Currency Converter
-
 ## Available Commands
 
 In the project directory, you can run:
