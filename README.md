@@ -5,9 +5,6 @@
 **Full Name**
 Anna Ly
 
-- Student ID: 12945604
-- Email: anna.ly@student.uts.edu.au
-
 ## Description
 The app is built for 94692 Data Science Practice, Assignment 1 Python Currency Converter
 
